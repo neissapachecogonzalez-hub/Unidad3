@@ -1,0 +1,5 @@
+aretes dorados|400.0|3|1200.0
+aretes dorados|400.0|6|2400.0
+PANTALON NEGRO|2999.0|4|11996.0
+Bucket hats|2878.0|2|5756.0
+vestido rojo|1000.0|1|1000.0
